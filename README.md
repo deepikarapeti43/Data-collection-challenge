@@ -10,8 +10,8 @@ Data Source
 [Mars Weather Facts Website](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
 
 
-
 Project Requirements
+
 Requirement 1: Scrape Titles and Preview Text from Mars News.
 * Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). 
 
