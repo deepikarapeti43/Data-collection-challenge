@@ -4,10 +4,12 @@ Background
 Scraping and analyzing websites with Mars news and weather facts.
 
 Data Source
-https://static.bc-edx.com/data/web/mars_news/index.html
- Mars news site
 
-Mars Weather Facts Website
+[Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html)
+
+[Mars Weather Facts Website](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
+
+
 
 Project Requirements
 Requirement 1: Scrape Titles and Preview Text from Mars News.
